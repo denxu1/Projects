@@ -1,7 +1,6 @@
 import text
 import path
 import textwrap
-import time
 
 userName = input('Please enter your name:\n')
 iniText = 0
@@ -32,7 +31,6 @@ def textDisplay(scene):
     global iniText
     for i in scene:
         try:
-            textwrapping = len(scene)
             print('\n' * 50)
             if nameDisplay(scene) == userName:
                 print(userName)
@@ -47,6 +45,7 @@ def textDisplay(scene):
                 print('Lisa')
                 scene = scene.replace('Lisa', '', 1)
             print('─' * 100)
+            textwrapping = len(scene)
             if '\n' in scene:
                 print(scene)
                 print('\n' * (3 - scene.count('\n')))
@@ -62,6 +61,8 @@ def textDisplay(scene):
                     print()
                 elif 450 >= textwrapping > 360:
                     print(end = '')
+                else:
+                    print('\n' * 4)
             print('─' * 100, end = '')
             iniText += 1
             scene = text.scene1(userName, iniText)

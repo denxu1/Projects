@@ -9,7 +9,7 @@ pet turtle (his name is Jimmy). Him and my roommate have done a lot to help me b
     'User*Sigh* Mornin\' Jimmy. I guess it\'s gonna be another uneventful day huh bud?',
     'Jimmy.....*blub*',
     'UserYeah, that\'s what I thought. Welp, let\'s get this show on the road!',
-'...........',
+    '...........',
     'My office is located in the heart of Toronto. I don\'t make enough money to live close to the office so my friend, Aiya, and \
 I rented a place out together, mainly because she also works nearby. Since I go to work earlier than she does, I\'m usually the one making \
 breakfast. Thanks to that I\'ve gotten pretty good if I do say so myself.',
