@@ -48,4 +48,5 @@ def textDisplay(scene):
             break
 
 textDisplay(text.scene1(userName, iniText))
+iniText = 0
 choices(path.split1()[1], path.split1()[2])
