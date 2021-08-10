@@ -30,17 +30,17 @@ def choices(scenario, option1 = False, option2 = False, option3 = False, option4
         print('\n' * (3 - a.count('\n')))
         print('─' * 100)
         try:
-            userInp = int(input())
-            if userInp == option1:
+            userInp = input()
+            if int(userInp) == option1:
                 return 1
                 break
-            elif userInp == option2:
+            elif int(userInp) == option2:
                 return 2
                 break
-            elif userInp == option3:
+            elif int(userInp) == option3:
                 return 3
                 break
-            elif userInp == option4:
+            elif int(userInp) == option4:
                 return 4
                 break
             else:
