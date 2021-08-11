@@ -58,6 +58,8 @@ def choices(scenario, option1 = False, option2 = False, option3 = False, option4
 def nameDisplay(char):
     if char.find('User') == 0:
         return userName
+    elif char.find('!') == 0:
+        return 'blank'
     elif char.find('Jimmy') == 0:
         return 'Jimmy'
     elif char.find('Aiya') == 0:
@@ -70,6 +72,8 @@ def nameDisplay(char):
         return 'Woman'
     elif char.find('Man') == 0:
         return 'Man'
+    elif char.find('Ben') == 0:
+        return 'Ben'
 
 def textDisplay(scene, key):
     global iniText
@@ -81,6 +85,8 @@ def textDisplay(scene, key):
             if nameDisplay(scene) == userName:
                 print(userName)
                 scene = scene.replace('User', '', 1)
+            elif nameDisplay(scene) == 'blank':
+                scene = scene.replace('!', '', 1)
             elif nameDisplay(scene) == 'Jimmy':
                 print('Jimmy')
                 scene = scene.replace('Jimmy', '', 1)
@@ -99,6 +105,9 @@ def textDisplay(scene, key):
             elif nameDisplay(scene) == 'Man':
                 print('Man')
                 scene = scene.replace('Man', '', 1)
+            elif nameDisplay(scene) == 'Ben':
+                print('Ben')
+                scene = scene.replace('Ben', '', 1)
             print('─' * 100)
             textwrapping = len(scene)
             if '\n' in scene:
@@ -124,12 +133,12 @@ def textDisplay(scene, key):
         except IndexError:
             break
 
-textDisplay(text.scene1(userName, iniText), 1)
-iniText = 0
-choice1 = choices(path.split1()[0], path.split1()[1], path.split1()[2])
-if choice1 == 1:
-    textDisplay(path.outcome1(userName, iniText)[0], 'c1-1')
-elif choice1 == 2:
-    textDisplay(path.outcome1(userName, iniText)[1], 'c1-2')
-iniText = 0
+#textDisplay(text.scene1(userName, iniText), 1)
+#iniText = 0
+#choice1 = choices(path.split1()[0], path.split1()[1], path.split1()[2])
+#if choice1 == 1:
+#    textDisplay(path.outcome1(userName, iniText)[0], 'c1-1')
+#elif choice1 == 2:
+#    textDisplay(path.outcome1(userName, iniText)[1], 'c1-2')
+#iniText = 0
 textDisplay(text.scene2(userName, iniText), 2)
