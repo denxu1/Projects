@@ -65,7 +65,7 @@ with Lisa being our supervisor. Thanks to her and the rest of the team I was abl
 '!Lisa is almost the complete opposite of Becca. She\'s maybe 5\'8\" even without heels. Her long, straight, black hair complemented \
 her serious attitude. Long eyelashes draped over her long thin eyes. Everything about her, from her appearance to her personality \
 was as sharp as a razor blade. To put it in one word, she was beautiful.',
-'ManLooking at Lisa again are ya?',
+'ManLooking at Lisa again, are ya?',
 'This guy is Ben. He\'s a super outgoing \'bro\' type of person. He\'s got pretty short, brown hair and a pretty well defined \
 face. Pretty attractive that guy, not that I\'d ever date him. If I ever saw him on the street I would never think he worked \
 a white collar job.',
@@ -79,14 +79,14 @@ Meet me in front of the entrance after work \'kay?',
 'User(I wonder what I\'ll have for lunch today).',
 'Even though I make breakfast in the morning, I don\'t have enough time to make a decent lunch nor do I really bother to make one \
 the previous day. That being said, for lunch I frequent the convenience store because, well, it\'s convenient.',
-'Before I leave, someone calls out to me.'
+'Before I leave, someone calls out to me.',
 f'LisaHey, {name}, I\'m assuming you\'re headed to the convenience store, right? Would you mind grabbing something for me? \
 I\'ve got something urgent I need to take care of.',
 'UserThat\'s no problem. Do you have something specific in mind?',
 'LisaNope, you can get me whatever. Here, to cover the expense.',
 'She hands me a nice, crisp 10 dollar bill.',
 'LisaYou can keep the change.',
-'UserOhh, nice one. You we\'re pretty cool there Lisa.',
+'UserOhh, nice one. You were pretty cool there Lisa.',
 'LisaJ-just hurry.',
 'She was trying to hide it but I could tell she was blushing a little.',
 'Despite her seemingly cold exterior, Lisa can be sensitive at times so I like to tease her a bit here and there. Though \
@@ -95,6 +95,73 @@ if I did it too much, she would probably have no trouble at all firing me.',
 'Lisa*Ahem* Thank you. I\'ll just be at my desk when you get back.',
 'With that, she briskly makes her way back to her desk and immediately sets off to work.',
 'User(I guess I\'ll get going then).',
-'............................']
+'............................',
+'The city gets much more congested at this time which is one of the reasons I go to the convenience store. If I tried to go \
+anywhere else, my lunch break would end before I got to eat anything.',
+'User(Hm.. I wonder what I should get today).',
+'The cold, air-conditioned interior of the convenience store hits my face as soon as the doors open.',
+'User(Maybe I\'ll grab a sandwich. It\'d be easy for Lisa to eat while she works too).',
+'As I\'m looking at the sandwich options displayed, a lady starts restocking and replacing products beside me.',
+'User(I haven\'t seen her here before, maybe she\'s a new hire).',
+'Once she leaves, I resume picking out a sandwich and some drinks before heading to the counter to pay.',
+'She was pretty though. She had her brown hair tied up in a tidy ponytail. Looks to me like the sporty type. From the looks \
+of it, she had a good amount of muscle but it wasn\'t obtrusive in any way.',
+'Because of my frequenting this place I got to know the people working here pretty well, almost to the point I\'d call them friends. The staff \
+has never changed since the first time I shopped here from what I know.',
+'User(I hope I get the chance to talk to her).',
+'I walk up to the counter and lo and behold, she was stationed behind the register waiting for me to come pay.',
+'User(The world works in mysterious ways huh).',
+'I guess this is as good of a chance as any to make aquaintences with her. I walk up to the register with the two drinks and \
+sandwiches I picked out for lunch. (I got simple club sandwiches and bottled tea by the way).',
+'Woman*beep* *beep* *beep* *beep*\nWIll that be all?',
+'UserYup. Say, are you new here?',
+'The nametag on her chest read \'Chris\'.',
+'ChrisMhm, I just started late last week.',
+'UserI thought so. I\'ll be coming here often so I hope we can get along.',
+'ChrisI hope so too. So let\'s see.. your total comes out to $14.35.',
+'I hand her the crisp ten dollar bill that Lisa gave me as well as some of my own change.',
+'She quickly puts the cash into the register and bags up the food I bought into a small plastic bag.',
+'UserThanks miss.',
+'ChrisJust call me Chris.',
+f'UserThen call me {name}. Well I\'m off now.',
+f'ChrisCome back soon {name}, alright?',
+'UserSure thing.',
+'With that quick introductory exchange over with, I leave the convenience store and start heading back to the office.',
+'................................',
+'UserI\'m back.',
+'LisaThat took a little longer than I thought it would.',
+'UserThere was a new hire so I spent a little time talking to them.',
+'I grab one of each of the sandwiches and bottles of tea I bought and hand them over to Lisa.',
+'LisaThanks.',
+'She puts her lunch on her desk then gets up and turns to face me.',
+'LisaI\'ll get straight to the point. We\'re quite shorthanded on a current project I\'m leading. There\'s no one else on \
+this team I can get to help me as they\'re all working on projects of their own.',
+'LisaI\'m not forcing you to help. You would be of great assisstance but it\'d be a lot of work on your end that you might \
+not be used to just yet. If you do accept, I\'ll help you as much as I can.',
+'LisaI\'ll give you some time to think about it as long as you can come up with an answer by the end of the week. \
+That gives you about three days, is that okay?',
+'UserYes, that\'s enough time. I\'ll give it some thought at home today. Then, if that\'s all, I\'m off to eat lunch.',
+'LisaOf course. Thank you again for buying this for me.',
+'UserWas no problem at all.',
+'As I turn to make my way back to my desk, I hear a faint sigh coming from Lisa\'s direction.',
+'User(I wonder if she\'s doing ok).',
+'I\'ll have to make sure to properly think this through when I get home.',
+'The rest of the day goes by without any major turbulence. Me and Ben meet up in front of the office builing after we\'re both finished \
+with work for the day. He brought some of his other buddies and I got to know them a bit while we drank.',
+'We ended up bar hopping quite a bit and it was pretty late by the time I got home.',
+'User*Sigh* (What should I do? Lisa seems to really need my help but on the other hand, I probably won\'t have any free time \
+while I\'m working on this project...)']
+    display = text[line]
+    return display
+
+def scene2_1(name, line):
+    text = ['Damn. I really can\'t leave Lisa dead in the water like this. It\'s not like the work is going to interfere with \
+what little personal life I have.']
+    display = text[line]
+    return display
+
+def scene2_2(name, line):
+    text = ['This project is too much responsibility. If I had to work nonstop I\'d probably drop dead in two days tops. If \
+I\'m going with this decision, I should be more concious about what I do in my free time.']
     display = text[line]
     return display

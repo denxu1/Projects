@@ -5,6 +5,9 @@ import time
 
 userName = input('Please enter your name:\n')
 iniText = 0
+rebecca = 0
+lisa = 0
+chris = 0
 
 def scenes(key):
     global iniText
@@ -20,6 +23,12 @@ def scenes(key):
     elif key == 'c1-2':
         input()
         return textDisplay(path.outcome1(userName, iniText)[1], 'c1-2')
+    elif key == '2_1':
+        input()
+        return textDisplay(text.scene2_1(userName, iniText), '2_1')
+    elif key == '2_2':
+        input()
+        return textDisplay(text.scene2_1(userName, iniText), '2_2')
 
 def choices(scenario, option1 = False, option2 = False, option3 = False, option4 = False):
     while True:
@@ -54,27 +63,6 @@ def choices(scenario, option1 = False, option2 = False, option3 = False, option4
             time.sleep(2)
             continue
 
-
-def nameDisplay(char):
-    if char.find('User') == 0:
-        return userName
-    elif char.find('!') == 0:
-        return 'blank'
-    elif char.find('Jimmy') == 0:
-        return 'Jimmy'
-    elif char.find('Aiya') == 0:
-        return 'Aiya'
-    elif char.find('Lisa') == 0:
-        return 'Lisa'
-    elif char.find('Rebecca') == 0:
-        return 'Rebecca'
-    elif char.find('Woman') == 0:
-        return 'Woman'
-    elif char.find('Man') == 0:
-        return 'Man'
-    elif char.find('Ben') == 0:
-        return 'Ben'
-
 def textDisplay(scene, key):
     global iniText
     for i in scene:
@@ -82,32 +70,35 @@ def textDisplay(scene, key):
                 break
         try:
             print('\n' * 50)
-            if nameDisplay(scene) == userName:
+            if scene.find('User') == 0:
                 print(userName)
                 scene = scene.replace('User', '', 1)
-            elif nameDisplay(scene) == 'blank':
+            elif scene.find('!') == 0:
                 scene = scene.replace('!', '', 1)
-            elif nameDisplay(scene) == 'Jimmy':
+            elif scene.find('Jimmy') == 0:
                 print('Jimmy')
                 scene = scene.replace('Jimmy', '', 1)
-            elif nameDisplay(scene) == 'Aiya':
+            elif scene.find('Aiya') == 0:
                 print('Aiya')
                 scene = scene.replace('Aiya', '', 1)
-            elif nameDisplay(scene) == 'Lisa':
+            elif scene.find('Lisa') == 0:
                 print('Lisa')
                 scene = scene.replace('Lisa', '', 1)
-            elif nameDisplay(scene) == 'Rebecca':
+            elif scene.find('Rebecca') == 0:
                 print('Rebecca')
                 scene = scene.replace('Rebecca', '', 1)
-            elif nameDisplay(scene) == 'Woman':
+            elif scene.find('Woman') == 0:
                 print('Woman')
                 scene = scene.replace('Woman', '', 1)
-            elif nameDisplay(scene) == 'Man':
+            elif scene.find('Man') == 0:
                 print('Man')
                 scene = scene.replace('Man', '', 1)
-            elif nameDisplay(scene) == 'Ben':
+            elif scene.find('Ben') == 0:
                 print('Ben')
                 scene = scene.replace('Ben', '', 1)
+            elif scene.find('Chris') == 0:
+                print('Chris')
+                scene = scene.replace('Chris', '', 1)
             print('─' * 100)
             textwrapping = len(scene)
             if '\n' in scene:
@@ -142,3 +133,10 @@ def textDisplay(scene, key):
 #    textDisplay(path.outcome1(userName, iniText)[1], 'c1-2')
 #iniText = 0
 textDisplay(text.scene2(userName, iniText), 2)
+iniText = 0
+choice2 = choices(path.split2()[0], path.split2()[1], path.split2()[2])
+if choice2 == 1:
+    lisa += 1
+    textDisplay(text.scene2_1(userName, iniText), '2_1')
+elif choice2 == 2:
+    textDisplay(text.scene2_2(userName, iniText), '2_2')

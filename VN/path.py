@@ -10,3 +10,8 @@ def outcome1(name, line):
     display1 = option1[line]
     display2 = option2[line]
     return display1, display2
+
+def split2():
+    scenario = ['1. I can\'t leave Lisa like that. I\'ve got to do what I can to help.', '2. There are other things I want to do, I can\'t \
+work this much without going crazy.']
+    return scenario, 1, 2
