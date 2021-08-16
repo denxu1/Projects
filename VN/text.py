@@ -52,6 +52,8 @@ in the area, anything really. Everything was the same but something felt a littl
     display = text[line]
     return display
 
+#------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 def scene2(name, line):
     text = ['Now that I\'ve had my fill, I can start getting productive.',
 f'WomanGood morning {name}. Let\'s put in another good day\'s work today.',
@@ -137,7 +139,7 @@ f'ChrisCome back soon {name}, alright?',
 'LisaI\'ll get straight to the point. We\'re quite shorthanded on a current project I\'m leading. There\'s no one else on \
 this team I can get to help me as they\'re all working on projects of their own.',
 'LisaI\'m not forcing you to help. You would be of great assisstance but it\'d be a lot of work on your end that you might \
-not be used to just yet. If you do accept, I\'ll help you as much as I can.',
+not be used to just yet. It would only be for about a week and some change. If you do accept, I\'ll help you as much as I can.',
 'LisaI\'ll give you some time to think about it as long as you can come up with an answer by the end of the week. \
 That gives you about three days, is that okay?',
 'UserYes, that\'s enough time. I\'ll give it some thought at home today. Then, if that\'s all, I\'m off to eat lunch.',
@@ -148,17 +150,106 @@ That gives you about three days, is that okay?',
 'I\'ll have to make sure to properly think this through when I get home.',
 'The rest of the day goes by without any major turbulence. Me and Ben meet up in front of the office builing after we\'re both finished \
 with work for the day. He brought some of his other buddies and I got to know them a bit while we drank.',
-'We ended up bar hopping quite a bit and it was pretty late by the time I got home.',
+'We ended up bar hopping quite a bit. I didn\'t drink much because it was a work night but even so, it was pretty late by the time I got home.',
 'User*Sigh* (What should I do? Lisa seems to really need my help but on the other hand, I probably won\'t have any free time \
 while I\'m working on this project...)']
     display = text[line]
     return display
 
+#---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 def scene2_1(name, line):
     text = ['Damn. I really can\'t leave Lisa dead in the water like this. It\'s not like the work is going to interfere with \
-what little personal life I have.']
+what little personal life I have.',
+'All this work is really gonna suck but maybe it\'ll prove to be a useful change of pace from my usual lax lifestyle.',
+'I quickly take a bath and go right to bed, content with the choice I made.',
+'User(If I\'m going to do it I better do it right).',
+'..............................',
+'It\'s the day after I was asked by Lisa to help with a project. I woke up with no hangover whatsoever (thank god I chose not to drink).',
+'I get out of bed and go about things the way I usually do. Brush my teeth, wash my face, get dressed, make breakfast, all the same. Except \
+today I knew I was about dip my toes into work hell.',
+'More than not wanting to do the work, I was worried that my performance would weigh the team down. The responsibility is \
+pretty high but I\'ve already made my choice. I\'m going to help Lisa to the best of my ability (whatever my \'best\' is anyway).',
+'After breakfast (I just heated up some grilled eel I brought home with me last night and put it over rice), I remembered \
+that I needed to tell Aiya that I\'ll probably be coming home later than usual.',
+'Thankfully, she was awake early today.',
+'UserHey Aiya, I\'ve got some extra work I need to do at the office so I might not be able to eat dinner here in a while.',
+'!Aiya and I decided together that we had to at least do something in the house together, otherwise it wouldn\'t feel like we \
+were roommates. So, we decided we would try and eat dinner together as often as possible. Of course, sometimes it wouldn\'t happen \
+but we both made a genuine effort to try.',
+'AiyaMm... is that right? *yawn* okaaaaay.',
+'!Aiya is definately not a morning person.',
+'Not worrying about wether or not she understood what I said, I began to leave for work.',
+'UserAlright, I\'m off now, later.',
+'Aiya\'Mkay, byeee..',
+'User(Is she even really awake?)',
+'................................',
+f'RebeccaHeya {name}!',
+'UserMornin\' Becca.',
+'RebeccaDid you manage to grab some more bagels yesterday?',
+'User(Shoot, I forgot to buy more bagels. Damn you Ben!)',
+'UserCrap, I forgot.',
+'RebeccaMm, well that sort of works out. I was gonna ask you if you wanted to go to that bagel place you mentioned yesterday \
+some time this week.',
+'UserSorry, but starting today I\'m probably going to be extremely busy for the next week and a bit.',
+'UserI can tell you where the place is and you can get some yourself if you want.',
+'RebeccaOh. That\'s alright, I understand. If you give the me the name of the bakery I can find it.',
+'If I skimped out on this job I could probably have found the time to go but I\'ve got to do my best to make sure I don\'t bring \
+the whole thing crashing down.',
+'I give Becca the name of the bakery along with a few helpful landmarks to help her find it on the bus. We continue chatting \
+away as usual until we reach her stop and we go our seperate ways.',
+'...............................',
+'I sit down at my desk with a coffee in my hand, as always.',
+'User(Lisa gave me until the end of the week to make my decision but if I\'ve made it already I should let her know as soon as possible).',
+'I take one more sip of coffee before getting up from my desk and making my way toward Lisa\'s.',
+'Lisa*Click* *clack*',
+'User(Already working so hard in the morning..)',
+'UserExcuse me, Lisa?',
+f'LisaOh, {name}, did you need something?',
+'UserI just came to tell you that I\'ll help you with that project you were telling me about.',
+'LisaReally!? Oh, thank goodness. Honestly, I was worried about what I\'d do if you had declined.',
+'LisaAlthough I\'m glad, I\'m also surprised you made the decision this quickly. I didn\'t expect an answer until at least \
+tomorrow.',
+'UserWell, after what you told me yesterday, It would feel like I was abondoning you if I didn\'t choose to help. I might \
+even learn a thing or two from this.',
+'LisaAlright, in return for your help I\'ll teach and help you to the best of my ability. It\'s the least I can do.',
+'UserI\'m holding you to that alright? Don\'t hate me if you have to hold my hand through all this.',
+'LisaW-why would I need to hold your hand!?',
+'User..Oh, I meant it figuratively.',
+'She really was sensitive on the inside.',
+'LisaR-right.',
+'Lisa*Ahem* Alright then, wait for me after work today. I\'ll give you a run-through of what the project is and what \
+you\'ll be doing.',
+'UserGot it. Then I\'ll be heading back now.',
+'LisaMhm, work hard today too, okay?',
+'I give her a quick thumbs up before briskly making my way back to my seat.',
+'User(Alright, let\'s power through this other stuff so I can focus on the project).',
+'My hands fly across the keyboard. I even skipped lunch today in order to work more. By the end of the day, I managed to \
+clear up most of what I was working on before.',
+'User(Mmgh...   Ahhhhh)',
+'I stretched out my exhaustion and prepared to talk with Lisa.',
+'LisaGood work today, as always.',
+'Speak of the devil.',
+'LisaYou looked more focused today than usual. I noticed you even skipped out on lunch.',
+'UserYeah, I was trying to clear some stuff in case this project takes more time than I expect.',
+'LisaMm, that\'s good.',
+'LisaWell, I\'ll get right to it. This project I was assigned to manage is a collaborative between us and another company. \
+Explaining the details would take too much time and it wouldn\'t mean much to you so I\'ll skip over it.',
+'LisaBasically, since we\'re shorthanded, we\'re all over the place in terms of our work. In other words, we\'re disorganized.',
+'LisaI\'m able to manage the people but I can\'t exactly manage the work we\'re putting out.',
+'LisaThat\'s why I\'m going to have you compile and organize all the files and work, both digital and analog. It\'s \
+not exactly a hard job but it may take you some time to get used to.',
+'LisaDid you get all that?',
+'UserYes. I got the gist of it at the very least.',
+'LisaGreat. That saves me some trouble.',
+'She was talking fairly quickly, most likely an effect from the time constraints. Thankfully, I was able to understand \
+most of what she was telling me.',
+'LisaNow that that\'s out of the way, I\'ll guide you through how to actually do what I told you to.',
+'LisaOh. Don\'t worry about overtime pay. You\'ll be appropriately compensated for this.']
     display = text[line]
     return display
+
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 def scene2_2(name, line):
     text = ['This project is too much responsibility. If I had to work nonstop I\'d probably drop dead in two days tops. If \
