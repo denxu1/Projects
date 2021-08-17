@@ -28,6 +28,12 @@ def scenes(key):
     global iniText
     while True:
         userIn = input()
+        '''if userIn == 'a':
+            print(charaDic)
+            continue
+        elif userIn == 'b':
+            print(saveChara)
+            continue'''
         try:
             if key == 1:
                 if userIn.lower() == 'save':
@@ -89,6 +95,10 @@ def scenes(key):
                     raise ValueError
                 iniText += 1
                 return section_2_2()
+            elif key == '[1]':
+                return pathway_1()
+            elif key == '[2]':
+                return pathway_2()
         except ValueError:
             errorMsg()
             iniText -= 1
@@ -96,7 +106,7 @@ def scenes(key):
         except IndexError or TypeError:
             break
 
-def choices(scenario, option1 = False, option2 = False, option3 = False, option4 = False):
+def choices(scenario, option1 = False, option2 = False, option3 = False, option4 = False,):
     while True:
         print('\n' * 50)
         print('─' * 100)
@@ -106,7 +116,13 @@ def choices(scenario, option1 = False, option2 = False, option3 = False, option4
         print('─' * 100)
         try:
             userInp = input()
-            if int(userInp) == option1:
+            if userInp.lower() == 'save':
+                return 'save'
+                break
+            elif userInp.lower() == 'load':
+                return 'load'
+                break
+            elif int(userInp) == option1:
                 return 1
                 break
             elif int(userInp) == option2:
@@ -191,6 +207,8 @@ def saveScreen(scene, key):
     global saveKey
     global saveChara
     while True:
+        if type(scene) == list:
+            scene = ' '.join(scene)
         num = 1
         index = 0
         print('\n' * 50)
@@ -256,7 +274,7 @@ def saveScreen(scene, key):
                 break
             else:
                 raise ValueError
-        except:
+        except ValueError:
             errorMsg()
             input()
             continue
@@ -353,13 +371,20 @@ def section_1():
 
 def pathway_1():
     global iniText
-    choice1 = choices(path.split1()[0], path.split1()[1], path.split1()[2])
-    if choice1 == 1:
-        section_1_1()
-    elif choice1 == 2:
-        section_1_2()
-    iniText = 0
-    section_2()
+    while True:
+        choice1 = choices(path.split1()[0], path.split1()[1], path.split1()[2])
+        if choice1 == 1:
+            section_1_1()
+        elif choice1 == 2:
+            section_1_2()
+        elif choice1 == 'save':
+            saveScreen(path.split1()[0], '[1]')
+            continue
+        elif choice1 == 'load':
+            loadScreen()
+            continue
+        iniText = 0
+        section_2()
 
 def section_1_1():
     global iniText
@@ -377,14 +402,21 @@ def section_2():
 
 def pathway_2():
     global iniText
-    global lisa
-    choice2 = choices(path.split2()[0], path.split2()[1], path.split2()[2])
-    if choice2 == 1:
-        charaDic['lisa'] += 1
-        section_2_1()
-    elif choice2 == 2:
-        section_2_2()
-    iniText = 0
+    while True:
+        choice2 = choices(path.split2()[0], path.split2()[1], path.split2()[2])
+        if choice2 == 1:
+            charaDic['lisa'] += 1
+            section_2_1()
+        elif choice2 == 2:
+            section_2_2()
+        elif choice2 == 'save':
+            saveScreen(path.split2()[0], '[2]')
+            continue
+        elif choice2 == 'load':
+            loadScreen()
+            continue
+        iniText = 0
+        #section_3()
 
 def section_2_1():
     global iniText
