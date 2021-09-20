@@ -15,3 +15,8 @@ def split2():
     scenario = ['1. I can\'t leave Lisa like that. I\'ve got to do what I can to help.', '2. There are other things I want to do, I can\'t \
 work this much without going crazy.']
     return scenario, 1, 2
+
+def split2_1():
+    scenario = ['1. Have Ben connect me with some people.', '2. Find a new hobby to get into.', '3. Spend some \'me time\'.',
+'4. I don\'t have to decide right now. Something will come to me.']
+    return scenario, 1, 2, 3, 4
