@@ -951,7 +951,27 @@ something for me too while you\'re there? I\'ll pay you back of course.',
 'Ben: Just get me whatever you get.',
 'User: Alright, no problem.',
 'Ben: Thanks man. You\'re the best.',
-
+'User: I\'ll be back in a bit, alright?',
+'User: (I guess I\'ll try some more of the new items today).',
+'One more thing to think about as I head over to the convenience store for the day.',
+'..................................................',
+'Chris: Hey, about time you showed up.',
+'User: Hey, Chris.',
+'Chris: So, did you look into any Gunpla stuff?',
+'User: Huh? Oh, yeah I did. I looked around on some forums and stuff.',
+'User: Everyone is pretty nice and helpful actually.',
+'Chris: Right? When I built my first model, the community basically saved me from disatser.',
+'User: Are you good at building things?',
+'Chris: I don\'t know. I\'ve never really been into stuff like Legos when I was a kid so I havn\'t done it enough to say \
+if I\'m good or bad.',
+'User: So then how did you end up building Gunpla?',
+'Chris: We can save that for another time. You\'re here for lunch, right?',
+'User: Right, right. I almost forgot about that. Are the new items still around the back?',
+'Chris: Mhm. They\'re in the same spot. We are going to move them next week though, just FYI.',
+'User: Alright, I\'ll remember that.',
+'User: The chicken parm sandwich was pretty good by the way. You should try it when you get the chance.',
+'Chris: Roger!',
+'Today, I bought two sets of sushi. '
 ]
     display = text[line]
     return display
