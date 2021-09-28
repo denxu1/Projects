@@ -973,7 +973,6 @@ if I\'m good or bad.',
 'Chris: Roger!',
 'Today, I bought two sets of sushi. I\'m not exactly sure but I think it\'s squid? Either way it looks \
 good, plus, Ben is a sucker for sushi.',
-'Chris showed me some good video tutorials about everything a beginner should know.',
 'I go back to the office, share my lunch with Ben, and work as usual for the rest of the day.',
 'Work actually ended a bit earlier than usual today.',
 'It\'s going to take a little while before the bus comes so I decide to explore a little bit.',
@@ -1037,6 +1036,99 @@ is ready and then bring my own portion into my room.',
 'I turn on my computer and check back on the forums while I eat dinner to see if I\'ve gotten any responses',
 'User: (Hm?)',
 'I notice a notification on the site that I\'m using.',
+'[asterale] has replied to your post:\n\n\'make sure you have enough time first of a...\'',
+'I didn\'t expect a reply this fast.',
+'I click on the notification which brings me to the post I made yesterday.',
+'\'...ll. \nwww.dditer.com/user/fryd/list-of-tools\nhere\'s a list of tools that beginners should have. \
+i used most of these myself when i built my first gunpla.\'\n\'btw feel free to pm me if u have any more \
+questions\'',
+'I\'m glad these people are so helpful.',
+'I decide to pm this user to thank them, plus to ask a few questions I still had.',
+'Me: hey thanks for the help',
+'I browse around for different Gunpla while I wait for a response.',
+'Surprisingly enough, it doesn\'t even take five minutes for me to get a message back.',
+'Me: hey thanks for the help\n\
+asterale: npnp',
+'Me: hey thanks for the help\n\
+asterale: npnp\n\
+          u have anymore questions?',
+'Me: hey thanks for the help\n\
+asterale: npnp\n\
+          u have anymore questions?\n\
+Me: yea just a couple',
+'Me: hey thanks for the help\n\
+asterale: npnp\n\
+          u have anymore questions?\n\
+Me: yea just a couple\n\
+    i was looking around and i found there are different kinds of models',
+'asterale: npnp\n\
+          u have anymore questions?\n\
+Me: yea just a couple\n\
+    i was looking around and i found there are different kinds of models\n\
+    which ones should a beginner build',
+'          u have anymore questions?\n\
+Me: yea just a couple\n\
+    i was looking around and i found there are different kinds of models\n\
+    which ones should a beginner build\n\
+asterale: mmmm',
+'Me: yea just a couple\n\
+    i was looking around and i found there are different kinds of models\n\
+    which ones should a beginner build\n\
+asterale: mmmm\n\
+          real grades are probably ur best bet',
+'    i was looking around and i found there are different kinds of models\n\
+    which ones should a beginner build\n\
+asterale: mmmm\n\
+          real grades are probably ur best bet\n\
+          u should at least build a few 1/144 models before a master grade',
+'    which ones should a beginner build\n\
+asterale: mmmm\n\
+          real grades are probably ur best bet\n\
+          u should at least build a few 1/144 models before a master grade\n\
+Me: ok thanks',
+'asterale: mmmm\n\
+          real grades are probably ur best bet\n\
+          u should at least build a few 1/144 models before a master grade\n\
+Me: ok thanks\n\
+    just one more question',
+'          real grades are probably ur best bet\n\
+          u should at least build a few 1/144 models before a master grade\n\
+Me: ok thanks\n\
+    just one more question\n\
+    what does a kit include',
+'          u should at least build a few 1/144 models before a master grade\n\
+Me: ok thanks\n\
+    just one more question\n\
+    what does a kit include\n\
+asterale: those are in the list i linked',
+'Me: ok thanks\n\
+    just one more question\n\
+    what does a kit include\n\
+asterale: those are in the list i linked\n\
+Me: alright ill contact you if i have another question thanks',
+'    just one more question\n\
+    what does a kit include\n\
+asterale: those are in the list i linked\n\
+Me: alright ill contact you if i have another question thanks\n\
+asterale: ok',
+'I close the chat and click on the link that they sent.',
+'It\'s a well put together guide that another user put together.',
+'It has everything from types of models to how to assemble them.',
+'I scroll until I find the section talking about materials and tools you need.',
+'Apparently, you need a few extra tools like a boxcutter or a file and paint if you want.',
+'I ask around for some help again and was told that painting was something I could do if I wanted to \
+add more to my model.',
+'I thought about it and decided it\'d be best if I just focused on building it as a first goal.',
+'asterale told me that I should build a \'real grade\'? 1/144? I\'m not exactly sure what those terms mean \
+so I scroll over to the \'model\' section of the guide.',
+'What I find out is that \'real grade\' refers to a type of model and 1/144 refers to the scale of the model.',
+'1/144 is the smallest so it\'s recommended for beginners',
+'I guess I\'ll take some time this weekend to visit the shop again. I want to at least narrow down my choices \
+a bit.',
+'I look over at the time on my comupter.',
+'It\'s almost 12am, maybe I should continue this tomorrow.',
+'With that, I wash up and crawl into bed with the new information I learned today.',
+'.........................................................',
 ''
 ]
     display = text[line]
