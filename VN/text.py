@@ -1178,6 +1178,23 @@ f'Chris: Alright. Have a good one {name}.',
 lunch as well. Of course, I wasn\'t opposed.',
 'First thing\'s first, I\'ve got to make sure Aiya is gonna be okay for lunch tomorrow.',
 'I usually make lunch on the weekends so Aiya\'ll probably just have to go out to eat.',
+'User: Aiya!',
+'Aiya: Mmm...?',
+'Out of her room comes a groggy and half-awake Aiya. She\'s still dressed in pajamas despite it being two in the afternoon.',
+'User: I\'m going out tomorrow and I won\'t be back until dinner. You\'ll have to grab lunch without me.',
+'Aiya: Whaaaaaaaaaaat? Man, okay...',
+'User: Sorry. But you\'ll be fine, it\'s just for lunch so I\'ll be back to make dinner.',
+'Aiya: Alright, I\'m going back to sleep then.',
+'And so, the groggy and half-awake Aiya retreats back into her room.',
+'Well, with that out of the way, I guess I\'ll spend some time looking around for a Gunpla to buy.',
+'Chris and I are going to be looking tomorrow as well but it\'s probably a good idea to get an idea of what to look for.',
+'I log on to the forum I used earlier and scour around looking at other people\'s builds.',
+'A lot of them have custom paint jobs or custom pieces. I hope I\'ll have enough skill and time to manage something like that one day.',
+'Maybe I should message asterale and ask them their opinion.',
+'Me: hey',
+'I almost instantly get a response this time.',
+'Me: hey\n\
+asterale: hey whats up',
 ''
 ]
     display = text[line]
