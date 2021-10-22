@@ -1190,11 +1190,113 @@ lunch as well. Of course, I wasn\'t opposed.',
 'Chris and I are going to be looking tomorrow as well but it\'s probably a good idea to get an idea of what to look for.',
 'I log on to the forum I used earlier and scour around looking at other people\'s builds.',
 'A lot of them have custom paint jobs or custom pieces. I hope I\'ll have enough skill and time to manage something like that one day.',
-'Maybe I should message asterale and ask them their opinion.',
+'Maybe I should message asterale and ask them their for some help.',
 'Me: hey',
 'I almost instantly get a response this time.',
 'Me: hey\n\
 asterale: hey whats up',
+'Me: hey\n\
+asterale: hey whats up\n\
+Me: im buying a gunpla this weekend but i dont know what to get',
+'Me: hey\n\
+asterale: hey whats up\n\
+Me: im buying a gunpla this weekend but i dont know what to get\n\
+    what was ur first build',
+'Me: hey\n\
+asterale: hey whats up\n\
+Me: im buying a gunpla this weekend but i dont know what to get\n\
+    what was ur first build\n\
+asterale: mine was a real grade rx 78 2',
+'asterale: hey whats up\n\
+Me: im buying a gunpla this weekend but i dont know what to get\n\
+    what was ur first build\n\
+asterale: mine was a real grade rx 78 2\n\
+          you can search it up if u want',
+'What I found when I looked it up was a grey mech with plenty of red, blue, and yellow parts.',
+'There were also pictures of it carrying around a gun or a shield and sometimes both.',
+'Me: im buying a gunpla this weekend but i dont know what to get\n\
+    what was ur first build\n\
+asterale: mine was a real grade rx 78 2\n\
+          you can search it up if u want\n\
+Me: is it good for a first',
+'    what was ur first build\n\
+asterale: mine was a real grade rx 78 2\n\
+          you can search it up if u want\n\
+Me: is it good for a first\n\
+asterale: its design is pretty simple so its not a complicated build',
+'asterale: mine was a real grade rx 78 2\n\
+          you can search it up if u want\n\
+Me: is it good for a first\n\
+asterale: its design is pretty simple so its not a complicated build\n\
+          its kinda boring tho so maybe you should look for something more',
+'          you can search it up if u want\n\
+Me: is it good for a first\n\
+asterale: its design is pretty simple so its not a complicated build\n\
+          its kinda boring tho so maybe you should look for something more\n\
+          exciting',
+'Me: is it good for a first\n\
+asterale: its design is pretty simple so its not a complicated build\n\
+          its kinda boring tho so maybe you should look for something more\n\
+          exciting\n\
+Me: ok ig ill keep lookin around',
+'With that I go back to looking around on my own for something that really catches my eye.',
+'It\'s less that they don\'t look good but more that they all look good.',
+'Really what I\'m looking for is something exceptionally cool.',
+'After a few minutes of searching, I get a message notification from asterale.',
+'asterale: its design is pretty simple so its not a complicated build\n\
+          its kinda boring tho so maybe you should look for something more\n\
+          exciting\n\
+Me: ok ig ill keep lookin around\n\
+asterale: i can help u out too',
+'          its kinda boring tho so maybe you should look for something more\n\
+          exciting\n\
+Me: ok ig ill keep lookin around\n\
+asterale: i can help u out too\n\
+          im looking for some beginner stuff for a friend anyway',
+'          exciting\n\
+Me: ok ig ill keep lookin around\n\
+asterale: i can help u out too\n\
+          im looking for some beginner stuff for a friend anyway\n\
+          ill lyk if i find anything',
+'Me: ok ig ill keep lookin around\n\
+asterale: i can help u out too\n\
+          im looking for some beginner stuff for a friend anyway\n\
+          ill lyk if i find anything\n\
+Me: thanks i appreciate it',
+'asterale: i can help u out too\n\
+          im looking for some beginner stuff for a friend anyway\n\
+          ill lyk if i find anything\n\
+Me: thanks i appreciate it\n\
+asterale: npnp',
+'It\'s pretty reassuring to have someone look out for you like this',
+'I just hope they have better luck than I do.',
+'A couple hours flew by as I searched for a Gunpla to buy.',
+'asterale managed to find a few to recommend me and I even found a few I liked myself.',
+'I get off of my computer to start preparing and making dinner.',
+'This time Aiya is finally fully awake and dressed',
+'After dinner is done I force Aiya to do the dishes while I go and take a shower',
+'I don\'t trust her to do a good job, but I trust her to at least get it done',
+'Fresh out of the shower, I climb into bed, turn off the lights, and watch videos on my phone until I \
+fall asleep.',
+'Tomorrows the big day. I\'m finally getting a Gunpla.',
+'...............................................................',
+'Rise and shine.',
+'Today is the day I\'m gonna buy my first Gunpla.',
+'Right now it\'s about 11am so that leaves me with about two hours until the meet time.',
+'It\'s a Saturday and of course, Aiya isn\'t awake yet so today I just made myself breakfast.',
+'In hindsight, I could\'ve made something for Aiya too so she could eat it for lunch but oh well. She\'ll \
+survive.',
+'The store is a short walk away from my office, so it shouldn\'t take me long to get there granted the bus ride \
+takes the same amount of time it always does.',
+'What can I do to kill an hour and a half?',
+'Actually, even though we said we were going to get lunch, we never specified where we were going to get it.',
+'Luckily for me, I had an hour and a half to conjure up some last minute preperations.',
+'......................................................',
+'A short bus ride and some walking later and here I am in front of HOLO.',
+'I\'m still around ten minutes ahead of schedule.',
+'Regarding the food issue, I managed to find a pretty nearby bakery that sells handmade sandwiches. I\'ve \
+heard good things about it so that\'s something I\'m excited for.',
+'I wait another five or so minutes until I see a small figure walking towards me.',
 ''
 ]
     display = text[line]
