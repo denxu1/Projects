@@ -1040,7 +1040,7 @@ is ready and then bring my own portion into my room.',
 'I didn\'t expect a reply this fast.',
 'I click on the notification which brings me to the post I made yesterday.',
 '\'make sure you have enough time first of all. \nwww.dditer.com/user/fryd/list-of-tools\nhere\'s a list of tools that beginners should have. \
-i used most of these myself when i built my first \ngunpla.\'\n\'btw feel free to pm me if u have any more \
+i used most of these myself when i built my first \nGunpla.\'\n\'btw feel free to pm me if u have any more \
 questions\'',
 'I\'m glad these people are so helpful.',
 'I decide to pm this user to thank them, plus to ask a few questions I still had.',
@@ -1197,24 +1197,24 @@ lunch as well. Of course, I wasn\'t opposed.',
 asterale: hey whats up',
 'Me: hey\n\
 asterale: hey whats up\n\
-Me: im buying a gunpla this weekend but i dont know what to get',
+Me: im buying a Gunpla this weekend but i dont know what to get',
 'Me: hey\n\
 asterale: hey whats up\n\
-Me: im buying a gunpla this weekend but i dont know what to get\n\
+Me: im buying a Gunpla this weekend but i dont know what to get\n\
     what was ur first build',
 'Me: hey\n\
 asterale: hey whats up\n\
-Me: im buying a gunpla this weekend but i dont know what to get\n\
+Me: im buying a Gunpla this weekend but i dont know what to get\n\
     what was ur first build\n\
 asterale: mine was a real grade rx 78 2',
 'asterale: hey whats up\n\
-Me: im buying a gunpla this weekend but i dont know what to get\n\
+Me: im buying a Gunpla this weekend but i dont know what to get\n\
     what was ur first build\n\
 asterale: mine was a real grade rx 78 2\n\
           you can search it up if u want',
 'What I found when I looked it up was a grey mech with plenty of red, blue, and yellow parts.',
 'There were also pictures of it carrying around a gun or a shield and sometimes both.',
-'Me: im buying a gunpla this weekend but i dont know what to get\n\
+'Me: im buying a Gunpla this weekend but i dont know what to get\n\
     what was ur first build\n\
 asterale: mine was a real grade rx 78 2\n\
           you can search it up if u want\n\
@@ -1324,7 +1324,85 @@ heard good things about it so that\'s something I\'m excited for.',
 'We sit at a small, round table for two by the window and start eating.',
 'Chris: *Mgh* ...So, what were we talking about?',
 'User: Oh, right. I was just saying there was basically just one person helping me with everything.',
-''
+'Chris: Sounds like they have too much time on their hands.',
+'User: You\'re probably right.',
+'User: Basically, they just helped me get my footing. Linked me forum posts and all that.',
+'Chris: Crap, why didn\'t I think of that. I completely forgot to show you some of my favourites.',
+'User: I mean, you can still show me. I\'ll take all the help I can get.',
+'Chris: Yeah, for sure. I\'ll send it to you later today.',
+'I give Chris a thumbs up as I bite down into my sub.',
+'User: Oh, and they even helped me pick out some Gunpla to look out for.',
+'Chris: Ooh, like what?',
+'I showed her some images that I had saved from last night.',
+'Chris: Oh man, these are some great choices.',
+'Chris: Actually, I\'ve been looking to get one of these myself.',
+'User: Just don\'t get the same one I do.',
+'Chris: What? Why not?',
+'User: I don\'t know. Maybe it\'s the novelty of feeling like you\'re the only one that owns something.',
+'Chris: You didn\'t need to get so philosophical but I get it.',
+'Chris: Alright, I\'ll stay off your terf this one time.',
+'User: Thanks.',
+'The rest of our lunch is filled with idle chatter about what we\'ve been up to but soon enough, we finish our sandwiches.',
+'User: Whew. The reviews weren\'t lying about this place.',
+'Chris: That\'s for sure.',
+'User: I guess it\'s about time we get going, huh.',
+'Chris: Mhm, let\'s go.',
+'I chose a place for lunch not too far from HOLO mainly because it\'s a pain to walk around here.',
+'Thanks to that though, it only takes a couple minutes to make it to the store.',
+'User: It\'s finally time.',
+'User: I\'ve been waiting for this all week.',
+'Chris: Well, let\'s get going then!',
+'Chris pushes me through the doors into the wonderful world of toy shops.',
+'Immediately, the cold air hits my face. I break away from Chris\' hands and walk towards the, occaisonally looking around \
+at other toys and games displayed around.',
+'A lot of this stuff looks pretty interesting. If I\'m not careful, I might end up buying more than I planned.',
+'But there it is, looking as enticing as the first time I saw it.',
+'I walk into the Gunpla section of the store. Some of the glass cases have different models than I saw last time I came here.',
+'I walk through the small aisles, looping from time to time, just admiring all of the models.',
+'I feel like a kid again, not that I\'m that old.',
+'Chris is over in the corner looking at some Gunpla herself.',
+'User: Hmm.. that ones pretty cool.',
+'Chris: -Jesus. Tell me the next time you decide to sneak up on me.',
+'User: My bad. Anyway, are you planning on buying anything today?',
+'Chris: Probably not but it doesn\'t hurt to look right?',
+'User: Fair enough.',
+'Chris: And how about you? Have you decided which one you\'re going to buy?',
+'I think so. I\'m jumping in between two of them but this one\'s too good to pass up on.',
+'I show Chris the MBF-P01-Re2 I\'m holding in my hand.',
+'Chris: Oooooh. That\'s nice.',
+'Chris takes the box from my hand to take a closer look at the images.',
+'User: It really hard to choose but I really like the black-gold colour scheme on this one.',
+'Chris: Isn\'t there a white version of this one too?',
+'User: Uh, I\'m not sure. This is the one I saw when I was searching around.',
+'Chris: I\'m pretty sure there is. Hold on, gimme a second.',
+'Chris runs off into the aisles and I\'m left just waiting awkwardly in the corner.',
+'After about a minute she comes back with a box in her hands.',
+'Chris: I found it!',
+'User: There really is one, huh.',
+'Chris: Maybe I\'ll buy this one so we can have a matching pair.',
+'User: Hm?',
+'Chris: To commemorate your first Gunpla.',
+'User: If you\'re alright with spending $30 dollars for it.',
+'Chris: It\'s fine, I\'ve been eyeing this model for a little bit anyway. Now I have a reason to actually buy it.',
+'User: Well, if that\'s the case, let\'s do it.',
+'Chris: Yeah! Alright, let\'s go check out.',
+'User: Yup.',
+'After Chris and I buy our models, we start walking towards her bus stop.',
+'We\'ve been chatting a bit while on our way.',
+'User: I\'ll have to buy some tools when I get home tonight.',
+'Chris: Do you want me to send you a list?',
+'User: That person sent me a link to a list but I\'m not sure if I still have it.',
+'Chris: Alright, I\'ll send you what I use when I get home.',
+'User: Thanks.',
+'We\'ve been waiting at the bus stop for a little while and soon enough her bus arrives.',
+'Chris: Alright, I\'ll see you around.',
+'User: Mhm, bye.',
+'After she gets on, I start making my way to my bus stop.',
+'If the times are right, I should be there just about on time.',
+'It\'s almost six so it\'s about time for dinner. The sun is setting and the air has gotten colder, but my excitement is still \
+burning bright.',
+'I can\'t wait to build this but let\'s get dinner out of the way first.',
+'...................................................'
 ]
     display = text[line]
     return display
