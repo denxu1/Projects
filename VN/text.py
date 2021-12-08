@@ -1504,7 +1504,20 @@ and I got a little interested in the game.',
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 
 def scene2_2_4(name, line):
-    text = []
+    text = ['I guess I don\'t have to decide right now.',
+'I\'ll just keep an eye out.',
+'For now, I have to make my way to work.',
+'...............................................',
+'Rebecca: Hey.',
+'I arrive at my bus stop at the usual time, and as usual, Becca is waiting.',
+'User: What\'s up?',
+'Rebecca: Homework. Lots of it.',
+'Rebecca: Would be better if I had a bagel, just saying.',
+'Oh.',
+'User: Right...',
+'Rebecca: It\'s fine. I wanted to ask to go to that bakery sometime anyway.',
+'That\'s right, I did say I would take her at some point.',
+'']
     display = text[line]
     return display
 
