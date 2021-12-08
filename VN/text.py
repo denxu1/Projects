@@ -1505,22 +1505,6 @@ and I got a little interested in the game.',
 #------------------------------------------------------------------------------------------------------------------------------------------------------
 
 def scene2_2_4(name, line):
-<<<<<<< HEAD
-    text = ['I guess I don\'t have to decide right now.',
-'I\'ll just keep an eye out.',
-'For now, I have to make my way to work.',
-'...............................................',
-'Rebecca: Hey.',
-'I arrive at my bus stop at the usual time, and as usual, Becca is waiting.',
-'User: What\'s up?',
-'Rebecca: Homework. Lots of it.',
-'Rebecca: Would be better if I had a bagel, just saying.',
-'Oh.',
-'User: Right...',
-'Rebecca: It\'s fine. I wanted to ask to go to that bakery sometime anyway.',
-'That\'s right, I did say I would take her at some point.',
-'']
-=======
     text = ['I guess I don\'t have to decide right now. I\'m sure something will come to me.',
 'For now, I have to focus on work.',
 'I finish what\'s lef ton my plate and get everything sorted out.',
@@ -1591,7 +1575,6 @@ f'Lisa: Oh, {name}, how can I help?',
 'User: It\'s no problem at all.',
 'With that, I meet up with Ben and go out for lunch.'
 ]
->>>>>>> 8ae9424d1522832e04b02e2c6f65129ddf367109
     display = text[line]
     return display
 
